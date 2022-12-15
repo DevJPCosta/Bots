@@ -5,41 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfc27e1-3bf3-4b56-a7c0-c3b20dc0ed03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/-.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/bot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/bot.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Tree-02.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/bot.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/bot.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/warn-bot.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/xref-bot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/dist/bot.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/Tree-02.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/jogo.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/jogo.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/warn-jogo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jogo/xref-jogo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/jogo.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/bot.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/bot.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/warn-bot.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/warn-bot.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/build/bot/xref-bot.html" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/build/bot/xref-bot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot-trab/dist/bot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bot-trab/dist/bot.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
