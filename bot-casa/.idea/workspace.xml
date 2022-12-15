@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dfc27e1-3bf3-4b56-a7c0-c3b20dc0ed03" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/-.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/bot.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/bot.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/bot.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/warn-bot.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/build/bot/xref-bot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bot abrir programas do trab/dist/bot.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ib7DEeGtkNZn1kwfmQ6L10OPnM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joao.santos/Documents/END&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dfc27e1-3bf3-4b56-a7c0-c3b20dc0ed03" name="Changes" comment="" />
+      <created>1670438308623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670438308623</updated>
+    </task>
+    <servers />
+  </component>
+</project>
